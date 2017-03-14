@@ -1,4 +1,3 @@
 # Tutorials
-Programming, image processing, data analysis, and other tutorials for the lab
+Programming, image processing, data analysis, and other tutorials for the synthetic biology lab.
 
-Tim is editing this file and Fernan Papafrita
